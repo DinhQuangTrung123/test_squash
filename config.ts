@@ -1,0 +1,1 @@
+export const dotEnvPath = 'dev.env'
